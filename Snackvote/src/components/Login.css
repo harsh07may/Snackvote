@@ -1,0 +1,31 @@
+.card-area{
+    display: flex;
+    width: 400px;
+    margin: auto;
+    border-radius:10px;
+    margin-top: 10%;
+    
+}
+.input-area{
+    margin: 10px;
+  
+  border-radius: 20px;
+}
+.btn {
+    width:  200px;
+    border-radius: 20px;
+}
+.button-area{
+    margin-top: 20px;
+display: flex;
+justify-content: center;
+border-radius: 10px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
